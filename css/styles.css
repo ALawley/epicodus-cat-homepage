@@ -2,7 +2,6 @@ h1 {
   text-align: center;
   text-decoration: underline;
   font-family: serif;
-  background-color: rgba(76, 167, 84, 0.4);
   font-size: 2em;
   border: solid black 2px;
   border-radius: 5px;
@@ -14,9 +13,11 @@ h2 {
   font-weight: bolder;
 }
 
-ul {
-}
-
 li {
   font-size: 1.5em;
+}
+
+.darkview {
+  background-color: #777777;
+  color: #FFF;
 }
